@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Climax Jump",
+  "base_artist": "AAA DEN-O form",
+  "createdAt": "2025-12-03T09:54:31.858958Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Climax Jump",
+      "artist": "AAA",
+      "has_synced": true,
+      "path": "select/01_Climax_Jump_AAA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Climax Jump",
+      "artist": "AAA DEN-O Form",
+      "has_synced": true,
+      "path": "select/02_Climax_Jump_AAA_DEN-O_Form.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Climax Jump",
+      "artist": "AAA DEN-O form",
+      "has_synced": true,
+      "path": "select/03_Climax_Jump_AAA_DEN-O_form.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "超 Climax Jump",
+      "artist": "DEN-O ALL STARS",
+      "has_synced": false,
+      "path": "select/04_超_Climax_Jump_DEN-O_ALL_STARS.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Climax Jump (Power Rock Edit)",
+      "artist": "AAA Den-O Form",
+      "has_synced": false,
+      "path": "select/05_Climax_Jump_(Power_Rock_Edit)_AAA_Den-O_Form.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Climax Jump (Soul Blues Edit)",
+      "artist": "AAA Den-O Form",
+      "has_synced": false,
+      "path": "select/06_Climax_Jump_(Soul_Blues_Edit)_AAA_Den-O_Form.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Climax Jump (Sweet Ballad Edit)",
+      "artist": "AAA Den-O Form",
+      "has_synced": false,
+      "path": "select/07_Climax_Jump_(Sweet_Ballad_Edit)_AAA_Den-O_Form.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Climax Jump Piano form",
+      "artist": "鳴瀬シュウヘイ",
+      "has_synced": false,
+      "path": "select/08_Climax_Jump_Piano_form_鳴瀬シュウヘイ.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Climax Jump the Final",
+      "artist": "AAA DEN-O form",
+      "has_synced": false,
+      "path": "select/09_Climax_Jump_the_Final_AAA_DEN-O_form.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Climax Jump DEN-LINER form (平成ベスト RE-ARRANGE ver.)",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/10_Climax_Jump_DEN-LINER_form_(平成ベスト_RE-ARRANGE_ver.)_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Climax Jump",
+      "artist": "AAA DEN-O form",
+      "has_synced": true,
+      "path": "select/11_Climax_Jump_AAA_DEN-O_form.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cho Climax Jump",
+      "artist": "DEN-O ALL STARS",
+      "has_synced": false,
+      "path": "select/12_Cho_Climax_Jump_DEN-O_ALL_STARS.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Climax Jump TV-SIZE EDIT.",
+      "artist": "AAA DEN-O form",
+      "has_synced": false,
+      "path": "select/13_Climax_Jump_TV-SIZE_EDIT._AAA_DEN-O_form.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "climax jump",
+      "artist": "aaa deno form",
+      "has_synced": true,
+      "path": "select/14_climax_jump_aaa_deno_form.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Climax Jump",
+      "artist": "AAA DEN-O form",
+      "has_synced": false,
+      "path": "select/pl_01_Climax_Jump_AAA_DEN-O_form.txt"
+    }
+  ]
+}
